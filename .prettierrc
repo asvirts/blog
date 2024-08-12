@@ -1,0 +1,11 @@
+{
+  "tabWidth": 2,
+  "useTabs": false,
+  "semi": false,
+  "singleQuote": false,
+  "rubyArrayLiteral": true,
+  "rubyHashLabel": true,
+  "rubyModifier": true,
+  "rubySingleQuote": true,
+  "rubyToProc": false
+}
