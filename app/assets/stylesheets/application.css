@@ -14,7 +14,16 @@
  *= require_self
  */
 
- h1 {
-    font-size: 32px;
-    display: block;
- }
+h1 {
+   font-size: 32px;
+   display: block;
+}
+
+a {
+   color: #333;
+   text-decoration: none;
+}
+
+a:hover {
+   opacity: 80%;
+}

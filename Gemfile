@@ -66,4 +66,5 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem 'tailwindcss-rails', '~> 2.7'
+gem 'bootstrap', '~> 5.3.3'
+gem 'dartsass-sprockets'
